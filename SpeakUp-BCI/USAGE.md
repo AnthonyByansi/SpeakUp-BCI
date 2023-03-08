@@ -32,3 +32,7 @@ If you encounter any issues while using SpeakUp-BCI, please refer to the SUPPORT
 ## Contributing
 
 If you would like to contribute to SpeakUp-BCI, please refer to the CONTRIBUTING.md file for information on how to get started.
+
+## License
+
+SpeakUp-BCI is released under the MIT License. Please see the LICENSE.md file for more information.
