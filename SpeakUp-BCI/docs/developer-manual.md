@@ -16,4 +16,4 @@ To set up your development environment for SpeakUp-BCI, follow these steps:
 * Install the dependencies listed in the requirements.txt file.
 * Run the software locally using your preferred development environment.
 ## Testing
-SpeakUp-BCI includes unit tests for each software component. To run the tests, use the following command:
+SpeakUp-BCI includes unit tests for each software component. To run the tests, use the following command: `python -m unittest discover -s tests -p '*_test.py'`
