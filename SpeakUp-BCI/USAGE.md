@@ -24,3 +24,7 @@ SpeakUp-BCI provides several features to help individuals with severe motor disa
 * *Custom Settings*: You can customize the software's settings to better suit your needs, such as adjusting the font size, voice, or other preferences.
 
 For more detailed information on how to use SpeakUp-BCI, please refer to the user manual in the `docs` directory.
+
+## Troubleshooting
+
+If you encounter any issues while using SpeakUp-BCI, please refer to the SUPPORT.md file for troubleshooting tips and resources. If you are still having trouble, please open an issue on the project's GitHub issue tracker with a detailed description of the issue and steps to reproduce it.
