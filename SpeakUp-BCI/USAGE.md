@@ -28,3 +28,7 @@ For more detailed information on how to use SpeakUp-BCI, please refer to the use
 ## Troubleshooting
 
 If you encounter any issues while using SpeakUp-BCI, please refer to the SUPPORT.md file for troubleshooting tips and resources. If you are still having trouble, please open an issue on the project's GitHub issue tracker with a detailed description of the issue and steps to reproduce it.
+
+## Contributing
+
+If you would like to contribute to SpeakUp-BCI, please refer to the CONTRIBUTING.md file for information on how to get started.
