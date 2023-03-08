@@ -27,7 +27,7 @@ If you have followed the troubleshooting tips above and are still experiencing i
 
 ## Contributing
 
-If you would like to contribute to SpeakUp-BCI, please refer to the CONTRIBUTING.md file for information on how to get started.
+If you would like to contribute to SpeakUp-BCI, please refer to the `CONTRIBUTING.md` file for information on how to get started.
 
 ## License
 
