@@ -10,3 +10,6 @@ Please refer to the INSTALLATION.md file for instructions on how to install Spea
 ## Getting Started
 
 Once you have installed SpeakUp-BCI, you can launch the software by running the following command: `python speakup_bci.py`
+
+
+This will launch the user interface, which you can use to interact with the software. The user interface is designed to be intuitive and easy to use, with clear labels and instructions for each button and feature.
