@@ -30,3 +30,5 @@ If you are a software developer and would like to contribute code to SpeakUp-BCI
 - Make your changes and commit them with clear commit messages.
 - Push your changes to your forked repository.
 - Create a pull request (PR) from your branch to the main SpeakUp-BCI repository.
+
+We will review your PR as soon as possible and provide feedback. Please be patient as we are all volunteers and may not be able to respond immediately.
