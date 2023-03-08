@@ -22,3 +22,5 @@ SpeakUp-BCI provides several features to help individuals with severe motor disa
 * *Speech Output*: Once you have composed a message, you can use the software's speech output feature to have the message read aloud.
 
 * *Custom Settings*: You can customize the software's settings to better suit your needs, such as adjusting the font size, voice, or other preferences.
+
+For more detailed information on how to use SpeakUp-BCI, please refer to the user manual in the `docs` directory.
