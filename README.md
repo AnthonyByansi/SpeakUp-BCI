@@ -20,3 +20,6 @@ The installation of SpeakUp-BCI involves setting up the software on a computer o
 To use SpeakUp-BCI, the BCI device must be connected to the computer or device running the software. The user can then open the software and select their preferred input method (e.g. typing, selecting phrases). The software will then interpret the user's brain signals and display or vocalize the user's message.
 
 Please refer to the `USAGE.md` file for detailed instructions on how to use the software.
+
+## Contributions
+We welcome contributions from developers and users to improve and expand the functionality of SpeakUp-BCI. If you are interested in contributing, please refer to the `CONTRIBUTING.md` file for guidelines on how to contribute.
