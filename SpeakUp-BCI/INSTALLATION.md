@@ -19,4 +19,5 @@ Once you have installed Python and the necessary libraries, you can follow these
 * Clone the SpeakUp-BCI repository to your local machine: `https://github.com/AnthonyByansi/SpeakUp-BCI.git`
 * Navigate to the SpeakUp-BCI directory: `cd SpeakUp-BCI`
 * Install the required Python packages using pip: `pip install -r requirements.txt`
+* Launch SpeakUp-BCI by running the following command: `python speakup_bci.py`
 
