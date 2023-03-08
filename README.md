@@ -26,4 +26,4 @@ We welcome contributions from developers and users to improve and expand the fun
 
 
 ## License
-SpeakUp-BCI is released under the MIT License. Please refer to the `LICENSE.md` file for the full license text.
+SpeakUp-BCI is released under the [MIT License](https://github.com/AnthonyByansi/SpeakUp-BCI/blob/main/LICENSE). Please refer to the `LICENSE.md` file for the full license text.
