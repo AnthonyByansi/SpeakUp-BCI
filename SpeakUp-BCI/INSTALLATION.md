@@ -20,4 +20,5 @@ Once you have installed Python and the necessary libraries, you can follow these
 * Navigate to the SpeakUp-BCI directory: `cd SpeakUp-BCI`
 * Install the required Python packages using pip: `pip install -r requirements.txt`
 * Launch SpeakUp-BCI by running the following command: `python speakup_bci.py`
+If everything was installed correctly, you should see the SpeakUp-BCI user interface appear on your screen.
 
