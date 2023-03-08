@@ -17,3 +17,9 @@ Once you have installed SpeakUp-BCI, follow these steps to use the software:
 * Adjust settings as needed using the settings file.
 
 Please refer to the `USAGE.md` file for more detailed usage instructions.
+
+
+## Troubleshooting
+If you experience any issues while using SpeakUp-BCI, please refer to the `SUPPORT.md` file for troubleshooting tips or contact our support team.
+
+Thank you for using SpeakUp-BCI!
