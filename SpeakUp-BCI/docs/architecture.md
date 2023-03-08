@@ -17,3 +17,16 @@ The Speech Synthesis component is responsible for generating speech output from 
 ## Configuration and Settings
 
 The Configuration and Settings component is responsible for managing user preferences and settings. The component includes a settings file that stores user preferences for things like electrode placement, speech settings, and user interface themes.
+
+## Code Structure
+The code for SpeakUp-BCI is organized as follows:
+
+* `src/`: Source code for the software components
+** `bci/`: Brain-Computer Interface component code
+**`ui/`: User Interface component code
+**`speech/`: Speech Synthesis component code
+** `settings/`: Configuration and Settings component code
+** `tests/`: Unit tests for the software components
+`data/`: Data files used by the software
+`docs/`: Documentation for the software components, including user manuals and developer guides
+Thank you for using SpeakUp-BCI!
