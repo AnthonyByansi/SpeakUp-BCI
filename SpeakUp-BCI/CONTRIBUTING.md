@@ -32,3 +32,12 @@ If you are a software developer and would like to contribute code to SpeakUp-BCI
 - Create a pull request (PR) from your branch to the main SpeakUp-BCI repository.
 
 We will review your PR as soon as possible and provide feedback. Please be patient as we are all volunteers and may not be able to respond immediately.
+
+## Code Style and Guidelines
+We follow the PEP 8 style guide for Python code and the Vue.js style guide for JavaScript and Vue.js code. Please ensure that your code adheres to these guidelines before submitting a PR.
+
+## Code of Conduct
+SpeakUp-BCI follows the Contributor Covenant Code of Conduct. Please read and follow this code of conduct in all your interactions with the project.
+
+## License
+SpeakUp-BCI is released under the MIT License. By contributing to this project, you agree to license your contributions under the same license.
