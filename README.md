@@ -31,3 +31,9 @@ SpeakUp-BCI is released under the [MIT License](https://github.com/AnthonyByansi
 
 ## Support
 If you encounter any issues or have questions about SpeakUp-BCI, please refer to the `SUPPORT.md` file for information on how to get support.
+
+Acknowledgements
+We would like to thank the contributors and users who have contributed to the development and improvement of SpeakUp-BCI. We also acknowledge the various open-source libraries and technologies that have been used to develop this software.
+
+## Contact
+For further information or inquiries about SpeakUp-BCI, please contact us at `contact@speakup-bci.com.` >> not launced yet
