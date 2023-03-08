@@ -10,3 +10,7 @@ SpeakUp-BCI is an open-source software that utilizes brain-computer interfaces t
 * Customizable settings for optimizing the system to individual users
 * Integration with various BCI devices and technologies
 * Open-source and customizable code for developers to modify and improve the system
+
+
+## Installation
+The installation of SpeakUp-BCI involves setting up the software on a computer or device that is compatible with the BCI device. Please refer to the `INSTALLATION.md` file for detailed instructions on installing the software.
