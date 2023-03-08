@@ -6,3 +6,12 @@ Welcome to SpeakUp-BCI, a software that utilizes brain-computer interfaces to al
 To install SpeakUp-BCI, please follow the instructions in the INSTALLATION.md file.
 
 ## Usage
+
+Once you have installed SpeakUp-BCI, follow these steps to use the software:
+
+* Open the SpeakUp-BCI software on your computer.
+* Connect the electrodes to your scalp as instructed in the user manual.
+* Follow the calibration process to ensure the software is accurately measuring your brain signals.
+* Use the on-screen keyboard or a connected keyboard to input text.
+* Use the microphone button to generate speech output.
+* Adjust settings as needed using the settings file.
