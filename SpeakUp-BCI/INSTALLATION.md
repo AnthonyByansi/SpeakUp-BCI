@@ -25,3 +25,11 @@ If everything was installed correctly, you should see the SpeakUp-BCI user inter
 ## Troubleshooting
 
 If you encounter any issues while installing or running SpeakUp-BCI, please refer to the `SUPPORT.md` file for troubleshooting tips and resources. If you are still having trouble, please open an issue on the project's GitHub issue tracker with a detailed description of the issue and steps to reproduce it.
+
+## Contributing
+
+If you would like to contribute to SpeakUp-BCI, please refer to the CONTRIBUTING.md file for information on how to get started.
+
+## License
+
+SpeakUp-BCI is released under the MIT License. Please see the LICENSE.md file for more information.
