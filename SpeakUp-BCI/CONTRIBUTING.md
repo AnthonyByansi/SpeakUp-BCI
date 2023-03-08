@@ -21,3 +21,12 @@ There are many ways you can contribute to SpeakUp-BCI:
 - **Help with design**: This might include improving the user interface or designing new icons or graphics.
 - **Report a bug**: If you find a bug or an issue with the software, please report it on the project's GitHub issue tracker. Please include a detailed description of the problem, steps to reproduce it, and any relevant information that can help us identify and fix the issue.
 - **Spread the word** : If you believe in the mission of SpeakUp-BCI and think it could benefit others, please share it with your friends and colleagues. We would love to see this software reach as many people as possible.
+
+If you are a software developer and would like to contribute code to SpeakUp-BCI, please follow these steps:
+
+- Fork the SpeakUp-BCI repository on GitHub.
+- Clone your forked repository to your local machine.
+- Create a new branch for your changes.
+- Make your changes and commit them with clear commit messages.
+- Push your changes to your forked repository.
+- Create a pull request (PR) from your branch to the main SpeakUp-BCI repository.
