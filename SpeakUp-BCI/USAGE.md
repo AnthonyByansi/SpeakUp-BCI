@@ -13,3 +13,12 @@ Once you have installed SpeakUp-BCI, you can launch the software by running the 
 
 
 This will launch the user interface, which you can use to interact with the software. The user interface is designed to be intuitive and easy to use, with clear labels and instructions for each button and feature.
+
+## Using the Software
+SpeakUp-BCI provides several features to help individuals with severe motor disabilities communicate more easily. Here are some of the key features:
+
+* *Text Input*: You can use the BCI to type out messages by selecting letters and numbers from the on-screen keyboard.
+
+* *Speech Output*: Once you have composed a message, you can use the software's speech output feature to have the message read aloud.
+
+* *Custom Settings*: You can customize the software's settings to better suit your needs, such as adjusting the font size, voice, or other preferences.
