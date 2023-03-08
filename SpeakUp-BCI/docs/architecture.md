@@ -13,3 +13,7 @@ The Brain-Computer Interface component is responsible for acquiring and processi
 ## Speech Synthesis
 
 The Speech Synthesis component is responsible for generating speech output from text input. The component includes a text-to-speech engine that converts text into speech using pre-recorded or synthesized speech.
+
+## Configuration and Settings
+
+The Configuration and Settings component is responsible for managing user preferences and settings. The component includes a settings file that stores user preferences for things like electrode placement, speech settings, and user interface themes.
