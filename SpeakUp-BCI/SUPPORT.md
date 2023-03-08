@@ -24,3 +24,11 @@ If you have followed the troubleshooting tips above and are still experiencing i
 
 * **Get in touch** : If you have any other questions or concerns about SpeakUp-BCI, you can email the project's maintainers at 
 * >> maintainers@SpeakUp-BCI.com not yet published 
+
+## Contributing
+
+If you would like to contribute to SpeakUp-BCI, please refer to the CONTRIBUTING.md file for information on how to get started.
+
+## License
+
+SpeakUp-BCI is released under the MIT License. Please see the `LICENSE.md` file for more information.
