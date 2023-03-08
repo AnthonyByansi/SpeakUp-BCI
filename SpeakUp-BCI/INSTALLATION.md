@@ -22,3 +22,6 @@ Once you have installed Python and the necessary libraries, you can follow these
 * Launch SpeakUp-BCI by running the following command: `python speakup_bci.py`
 If everything was installed correctly, you should see the SpeakUp-BCI user interface appear on your screen.
 
+## Troubleshooting
+
+If you encounter any issues while installing or running SpeakUp-BCI, please refer to the `SUPPORT.md` file for troubleshooting tips and resources. If you are still having trouble, please open an issue on the project's GitHub issue tracker with a detailed description of the issue and steps to reproduce it.
