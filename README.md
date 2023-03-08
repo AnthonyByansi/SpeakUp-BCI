@@ -23,3 +23,7 @@ Please refer to the `USAGE.md` file for detailed instructions on how to use the 
 
 ## Contributions
 We welcome contributions from developers and users to improve and expand the functionality of SpeakUp-BCI. If you are interested in contributing, please refer to the `CONTRIBUTING.md` file for guidelines on how to contribute.
+
+
+## License
+SpeakUp-BCI is released under the MIT License. Please refer to the `LICENSE.md` file for the full license text.
