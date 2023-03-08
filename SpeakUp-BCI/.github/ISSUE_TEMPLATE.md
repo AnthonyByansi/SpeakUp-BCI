@@ -11,3 +11,7 @@ Please provide the following information about your environment:
 * Operating System:
 * Python Version:
 * SpeakUp-BCI Version:
+
+## Additional Information
+
+Please provide any additional information that may be relevant to the issue, such as logs, screenshots, or relevant links. If applicable, please also include any attempts you have made to resolve the issue.
