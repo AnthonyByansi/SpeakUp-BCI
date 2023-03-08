@@ -22,4 +22,4 @@ Please refer to the `USAGE.md` file for more detailed usage instructions.
 ## Troubleshooting
 If you experience any issues while using SpeakUp-BCI, please refer to the `SUPPORT.md` file for troubleshooting tips or contact our support team.
 
-Thank you for using SpeakUp-BCI!
+> Thank you for using SpeakUp-BCI!
