@@ -12,3 +12,8 @@ SpeakUp-BCI is built using Python and several Python libraries, so you will need
 
 * numpy: A Python library for working with arrays and numerical data. You can install it by running the following command: `pip install numpy`
 * pandas: A Python library for working with data in table format. You can install it by running the following command: `pip install pandas`
+
+## Installation Steps
+Once you have installed Python and the necessary libraries, you can follow these steps to install SpeakUp-BCI:
+
+* Clone the SpeakUp-BCI repository to your local machine:
