@@ -5,3 +5,7 @@ SpeakUp-BCI is a software that utilizes brain-computer interfaces to allow indiv
 ## User Interface
 
 The User Interface is responsible for displaying information to the user and receiving input from the user. The interface includes a text box for displaying text output and a microphone button for speech output. The user can also input text using an on-screen keyboard or via a connected keyboard.
+
+Brain-Computer Interface
+
+The Brain-Computer Interface component is responsible for acquiring and processing the user's brain signals. The interface includes a set of electrodes that are placed on the user's scalp to measure brain activity. The signals are processed to extract relevant information and then translated into text or speech output.
